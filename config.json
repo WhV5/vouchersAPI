@@ -2,7 +2,7 @@
     "type": "mssql",
     "server": "127.0.0.1",
     "user": "sa",
-    "pwd": "sa@123",
+    "pwd": "XXX",
     "port": 1433,
     "database": "AIS201407281401391",
     "encrypt": "disable"
